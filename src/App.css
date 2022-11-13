@@ -1,0 +1,24 @@
+.in{  
+  border-color: dimgray;  
+  border-radius: 5px;
+  padding: 10px;  
+  font-size: medium;
+}
+.slt{
+  color: lightsalmon;  
+  border-color: lightcoral;
+  padding: 5px;
+  width: 70px;
+  margin-right: 40px;
+}
+#colours{
+  background-color:#1a1818;
+  padding:20px;
+}
+#navt {
+  background-color: #1a1818;            
+}
+#navb {
+  padding-left:100px;
+  background-color: #1a1818;          
+}
